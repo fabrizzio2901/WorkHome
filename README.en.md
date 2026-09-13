@@ -63,3 +63,7 @@ The linked demo loaded and allowed navigation to the service catalog during revi
 ## Technical check
 
 The alternative installation and `npm run build` completed. `npm run lint` failed with three `no-unused-vars` errors in `src/App.jsx`. The build used dependencies resolved without changing the lockfile; it does not show that `npm ci` works.
+
+## My contribution
+
+I contributed to the interface and interaction logic of this prototype as part of my full-stack approach. The published WorkHome scope is frontend; backend services remain pending.

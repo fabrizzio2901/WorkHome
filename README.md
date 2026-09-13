@@ -63,3 +63,7 @@ La demo enlazada respondió y permitió entrar al catálogo durante la revisión
 ## Comprobación técnica
 
 La instalación alternativa y `npm run build` terminaron correctamente. `npm run lint` falló con tres errores `no-unused-vars` en `src/App.jsx`. La compilación utilizó dependencias resueltas sin modificar el lockfile; no demuestra que `npm ci` funcione.
+
+## Mi participación
+
+Participé en el desarrollo de la interfaz y la lógica de interacción de este prototipo, como parte de mi enfoque full stack. El alcance publicado de WorkHome es frontend; sus servicios de backend siguen pendientes.
